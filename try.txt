@@ -1,1 +1,1 @@
-dell laptop =100000
+lenovo laptop =100000
