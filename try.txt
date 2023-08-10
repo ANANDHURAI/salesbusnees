@@ -1,1 +1,2 @@
- laptop =100000
+
+lenovo laptop =10,000
