@@ -1,2 +1,1 @@
-
 lenovo laptop =10,000
