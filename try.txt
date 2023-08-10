@@ -1,2 +1,2 @@
 
-lenovo laptop =10,000
+lenovo23 laptop =12,000
