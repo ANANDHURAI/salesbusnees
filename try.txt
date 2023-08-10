@@ -1,1 +1,1 @@
-lenovo laptop =100000
+hp laptop =100000
